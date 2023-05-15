@@ -1,0 +1,20 @@
+.text-center{
+    text-align: center;
+    /* background-color: cadetblue; */
+    
+}
+.bg-red{
+    background-color:rgb(191, 179, 214);
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+} 
+.felx-col{
+    flex-direction: column;
+}
+.align-center{
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+/* html,body{
+    height: 100%;
+    width: 100%;
+} */
+.rr{
+    background-color: cadetblue;
+
+}
+.calc{
+    background-color: rgb(66, 63, 63);
+    padding: 20px;
+    border-radius: 10px;
+}
+.button{
+    padding: 12px;
+    margin: 0px 0;
+    width: 46px;
+    height: 43px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.row{
+    margin: 3px 0;
+}
+.row input{
+    font-size: 15px;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 5px; 
+}
+#clr{
+    /* font-size: 9px; */
+    padding: 11px 30px;
+    /* border-radius: 9px; */
+}
